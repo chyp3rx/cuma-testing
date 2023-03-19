@@ -1,5 +1,7 @@
 Membuat testing 2
 - Test pertama
+  * Fitur A
+  * Fitur B
 - Test kedua 
 - Test ketiga
 - Test keempat
